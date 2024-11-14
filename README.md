@@ -8,9 +8,9 @@
 <br>
 ##### [A. Tầm nhìn dự án](https://github.com/xuanndong/PTDACNTT_N11/blob/8f634e32f31b016e7e0bc6741d90275be64de13a/Nh%C3%B3m%2011_PTDACNTT.docx)
 ##### B. Thực hiện dự án
-##### &nbsp;&nbsp;&nbsp;1. [Biên bản làm việc tuần 1](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%201)
-##### &nbsp;&nbsp;&nbsp;2. [Biên bản làm việc tuần 2](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%202)
-##### &nbsp;&nbsp;&nbsp;3. [Biên bản làm việc tuần 3](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%203)
+##### <p>1. [Biên bản làm việc tuần 1](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%201)</p>
+##### 2. [Biên bản làm việc tuần 2](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%202)
+##### 3. [Biên bản làm việc tuần 3](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%203)
 #####   4. [Biên bản làm việc tuần 4](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%204)
 #####   5. [Biên bản làm việc tuần 5](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%205)
 #####   6. [Biên bản làm việc tuần 6](https://github.com/xuanndong/PTDACNTT_N11/tree/8f634e32f31b016e7e0bc6741d90275be64de13a/Tu%E1%BA%A7n%206)
