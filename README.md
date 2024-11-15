@@ -3,6 +3,13 @@
 ## Học phần phát triển dự án công nghệ thông tin --- Nhóm 11
 #### _Chủ đề_: Xây dựng website quản lý học sinh cho trường Tiểu học Ngọc Liệp  
 
+##### Thành viên trong nhóm :
+##### 1. Đào Việt Anh
+##### 2. Vũ Xuân Đông
+##### 3. Võ Trí Thức
+##### 4. Đỗ Duy Toàn
+##### 5. Hoàng Mạnh Tiến  
+
 ##### [Video họp nhóm p1](https://drive.google.com/file/d/16LJuXB-9fvIW2uwUGJwj5T8p3VExNuhd/view?usp=drive_link)
 ##### [Video hop nhóm_p2](https://drive.google.com/file/d/1n4atNS0ZUN_y3REwjNcP0v01nTLYYFXl/view?usp=drive_link)  
 
