@@ -16,12 +16,12 @@
 ##### [A. Tầm nhìn dự án](https://github.com/xuanndong/PTDACNTT_N11/blob/8f634e32f31b016e7e0bc6741d90275be64de13a/Nh%C3%B3m%2011_PTDACNTT.docx)  
 
 ##### B. Thực hiện dự án
-#####   1. [Biên bản làm việc tuần 1](Tuần 1/Biên bản họp nhóm tuần 1.xlsx)
-#####   2. [Biên bản làm việc tuần 2](Tuần 2/Biên bản họp nhóm tuần 2.xlsx)
-#####   3. [Biên bản làm việc tuần 3](Tuần 3/Biên bản họp nhóm tuần 3.xlsx)
-#####   4. [Biên bản làm việc tuần 4](Tuần 4/Biên bản họp nhóm tuần 4.xlsx)
-#####   5. [Biên bản làm việc tuần 5](Tuần 5/Biên bản họp nhóm tuần 5.xlsx)
-#####   6. [Biên bản làm việc tuần 6](Tuần 6/Biên bản họp nhóm tuần 6.xlsx)
+#####   1. [Biên bản làm việc tuần 1](https://github.com/xuanndong/PTDACNTT_N11/blob/8de6871066d5f1ce08395f17f674b02b7436b71e/Tu%E1%BA%A7n%201/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20nh%C3%B3m%20tu%E1%BA%A7n%201.xlsx)
+#####   2. [Biên bản làm việc tuần 2](https://github.com/xuanndong/PTDACNTT_N11/blob/8de6871066d5f1ce08395f17f674b02b7436b71e/Tu%E1%BA%A7n%202/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20nh%C3%B3m%20tu%E1%BA%A7n%202.xlsx)
+#####   3. [Biên bản làm việc tuần 3](https://github.com/xuanndong/PTDACNTT_N11/blob/8de6871066d5f1ce08395f17f674b02b7436b71e/Tu%E1%BA%A7n%203/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20nh%C3%B3m%20tu%E1%BA%A7n%203.xlsx)
+#####   4. [Biên bản làm việc tuần 4](https://github.com/xuanndong/PTDACNTT_N11/blob/8de6871066d5f1ce08395f17f674b02b7436b71e/Tu%E1%BA%A7n%204/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20nh%C3%B3m%20tu%E1%BA%A7n%204.xlsx)
+#####   5. [Biên bản làm việc tuần 5](https://github.com/xuanndong/PTDACNTT_N11/blob/8de6871066d5f1ce08395f17f674b02b7436b71e/Tu%E1%BA%A7n%205/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20nh%C3%B3m%20tu%E1%BA%A7n%205.xlsx)
+#####   6. [Biên bản làm việc tuần 6](https://github.com/xuanndong/PTDACNTT_N11/blob/8de6871066d5f1ce08395f17f674b02b7436b71e/Tu%E1%BA%A7n%206/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20nh%C3%B3m%20tu%E1%BA%A7n%206.xlsx)
 #####   7. [Product Backlog](Product Backlog.xlsx)
 #####   8. [Dánh giá user story](1_3_DanhGiaUserStory.xlsx)
 #####   9. [Đánh giá theo MoSCoW](1_4_MoSCoW.xlsx)
