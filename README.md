@@ -25,7 +25,7 @@
 #####   7. [Product Backlog](Product Backlog.xlsx)
 #####   8. [Dánh giá user story](1_3_DanhGiaUserStory.xlsx)
 #####   9. [Đánh giá theo MoSCoW](1_4_MoSCoW.xlsx)
-#####   10. [User story + Tiêu chí chấp nhận + Testing](US + Tiêu chí chấp nhận + Testing.xlsx)
+#####   10. [User story + Tiêu chí chấp nhận + Testing]("US + Tiêu chí chấp nhận + Testing.xlsx")
 #####   11. [Lập lịch dự án](PhanBoCauTruyen.xlsx)
 #####   12. [WBS](WBS.xlsx)
 #####   13. [Chia thiết kế thành các phiên bản cụ thể](PhanBoCauTruyen.xlsx)
