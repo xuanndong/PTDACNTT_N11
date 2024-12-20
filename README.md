@@ -31,4 +31,4 @@
 #####   13. [Chia thiết kế thành các phiên bản cụ thể](PhanBoCauTruyen.xlsx)
 
 ##### C. Kết quả
-#####   [Bản hoàn thiện](https://github.com/xuanndong/PTDACNTT_N11/blob/da09c1d85bdffa6925ba1521dbee5eadae0e6ecc/N11_B%C3%A1o%20c%C3%A1o%20Th%E1%BB%B1c%20hi%E1%BB%87n%20d%E1%BB%B1%20%C3%A1n.pdf)
+#####   [Bản hoàn thiện](BTL.docx)
